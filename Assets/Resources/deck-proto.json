@@ -1,0 +1,402 @@
+{
+	"name":"Zona de Testes",
+	"cardTotal":40,
+	"cards":[
+		{
+			"id":0,
+			"type":"normal",
+			"theme":"ESSA SALADA É MUITO UNIDA",
+			"question":"Estão regravando uma versão de A Grande Família para veganos. Qual destes não poderia fazer o papel de Lineu?",
+			"answers":["Rúcula", "Couve", "Brocólis", "Repolho"],
+			"correct":0,
+			"fact":"Couve, brócolis e repolho são plantas da mesma espécie, Brassica oleracea."
+		},
+		{
+			"id":1,
+			"type":"normal",
+			"theme":"CACILDIS, FOI GOL!",
+			"question":"Quantos figurantes precisam ser contratados para os Trapalhões gravarem uma partida de futebol?",
+			"answers":["7", "11", "18", "20"],
+			"correct":2,
+			"fact":"Toda partida de futebol tem dois times com 11 pessoas e são quatro Trapalhões."
+		},
+		{
+			"id":2,
+			"type":"normal",
+			"theme":"NETFLIX GRAMATICAL",
+			"question":"Algumas séries entram em hiato, mas qual destas tem um ditongo?",
+			"answers":["Supernatural", "Guerra dos Tronos", "Demolidor", "Um Maluco no Pedaço"],
+			"correct":1,
+			"fact":"Um ditongo consiste em uma sílaba com duas vogais, como em guerra."
+		},
+		{
+			"id":3,
+			"type":"normal",
+			"theme":"TINKY WINKY TIRANDO LEITE",
+			"question":"Se acabasse o Nesquik, de qual animal um Teletubbie teria que tirar leite para fazer o tradicional creminho gostoso?",
+			"answers":["Camelo", "Cabra", "Lhama", "Hipopótamo"],
+			"correct":3,
+			"fact":"O leite de hipopótamo é rosa, assim como o creminho gostoso dos Teletubbies."
+		},
+		{
+			"id":4,
+			"type":"normal",
+			"theme":"ATLETISMO PARA SUPER-HERÓIS",
+			"question":"Qual deve ser o tamanho mínimo da pista de atletismo do Flash para que ele chegue ao final depois de um segundo?",
+			"answers":["300km", "400km", "200km", "500km"],
+			"correct":0,
+			"fact":"O Flash corre na velocidade da luz: 300km por segundo."
+		},
+		{
+			"id":5,
+			"type":"normal",
+			"theme":"PLURALIS ANIMALIS",
+			"question":"Agora que começaram a utilizar Latim na floresta, qual é o singular de Bambi?",
+			"answers":["Bambo", "Bambus", "Bambi", "Bamba"],
+			"correct":1,
+			"fact":"Em Latim, palavras terminadas em -us têm plural terminado em -i."
+		},
+		{
+			"id":6,
+			"type":"normal",
+			"theme":"BRANCA DE NEVE E OS OITO PLANETAS",
+			"question":"Dentre os listados, qual poderia ser parente dos Sete Anões?",
+			"answers":["Urano", "Vênus", "Netuno", "Plutão"],
+			"correct":3,
+			"fact":"Plutão é o único da lista com a denominação de planeta-anão."
+		},
+		{
+			"id":7,
+			"type":"normal",
+			"theme":"DISCURSOS DA LITERATURA",
+			"question":"Qual destes discursos de Dilma Rousseff trariam más lembranças para Dom Quixote?",
+			"answers":["Sair do dentifrício", "Saudar a mandioca", "Estocar vento", "Vai todo mundo perder"],
+			"correct":2,
+			"fact":"Dom Quixote, no livro, lutava contra gigantes, que, na verdade, eram moinhos de vento."
+		},
+		{
+			"id":8,
+			"type":"normal",
+			"theme":"MÚSICA POPULAR BÍBLICA",
+			"question":"Qual destes cantores brasileiros visitou o menino Jesus no dia de seu nascimento?",
+			"answers":["Noel Rosa", "Belchior", "Leonardo", "Fagner"],
+			"correct":1,
+			"fact":"Belchior é o nome de um dos três Reis Magos, que deram presentes a Jesus em seu nascimento."
+		},
+		{
+			"id":9,
+			"type":"normal",
+			"theme":"SOLIDÃO A TRÊS",
+			"question":"Uma pessoa deve sair para que fique apenas uma pessoa sobrando. Quem deve sair?",
+			"answers":["Ricardo Reis", "Alberto Caeiro", "João Gilberto", "Álvaro Campos"],
+			"correct":2,
+			"fact":"Ricardo, Alberto e Álvaro são heterônimos de uma única pessoa, o escritor Fernando Pessoa."
+		},
+		{
+			"id":10,
+			"type":"normal",
+			"theme":"MATEMÚSICA",
+			"question":"Matematicamente falando, qual destas bandas é da mesma família do U2?",
+			"answers":["Maroon 5", "30 Seconds to Mars", "CPM 22", "Blink-182"],
+			"correct":0,
+			"fact":"Segundo a matemática, 2 e 5 são números… primos."
+		},
+		{
+			"id":11,
+			"type":"normal",
+			"theme":"EU ACEITEI FAZ TEMPO",
+			"question":"Uma pessoa casou-se consigo mesma em 2017. Que festa ela fará em 2032?",
+			"answers":["Bodas de Linho", "Bodas de Prata", "Bodas de Estanho", "Bodas de Porcelana"],
+			"correct":3,
+			"fact":"Com 15 anos de casado (no singular, neste caso), comemoram-se Bodas de Porcelana."
+		},
+		{
+			"id":12,
+			"type":"normal",
+			"theme":"QUATRO CASAS E UM ADVOGADO",
+			"question":"Qual destas cartas de Banco Imobiliário é a mesma coisa que habeas corpus?",
+			"answers":["Pague dinheiro", "Saída livre da prisão", "Companhia de viação", "Parada livre"],
+			"correct":1,
+			"fact":"No Brasil, um habeas corpus pode ser usado para tirar alguém que esteja na cadeia injustamente."
+		},
+		{
+			"id":13,
+			"type":"normal",
+			"theme":"SIMULAÇÕES REVERSAS",
+			"question":"O que seria o contrário de haver uma falha na Matrix?",
+			"answers":["Deja non vu", "Neja vu", "Jamais vu", "Nunca vu"],
+			"correct":2,
+			"fact":"O contrário de déjà vu (ou a falha na Matrix) é jamais vu. É sério."
+		},
+		{
+			"id":14,
+			"type":"normal",
+			"theme":"MORTE E VIDA PERIÓDICA",
+			"question":"Qual destas substâncias é indispensável para o corpo de Severino?",
+			"answers":["Monóxido de Dihidrogênio", "Hidróxido de Sódio", "Ácido Traumático", "Etanoato de Butila"],
+			"correct":0,
+			"fact":"Monóxido de Dihidrogênio também é conhecido como H2O ou água. E você precisa de água."
+		},
+		{
+			"id":15,
+			"type":"normal",
+			"theme":"VOU SER O DONO DA LUA",
+			"question":"Qual personagem da Turma da Mônica não gosta de ações precipitadas?",
+			"answers":["Mônica", "Cebolinha", "Magali", "Cascão"],
+			"correct":3,
+			"fact":"O Cascão não gosta de chuva, que também pode ser chamada de precipitação."
+		},
+		{
+			"id":16,
+			"type":"normal",
+			"theme":"ALL YOU NEED IS MORSE",
+			"question":"Se os Beatles fizessem suas músicas em código morse, qual canção seria gravada como ••• ___ •••?",
+			"answers":["Ticket to Ride", "Help", "Something", "Here Comes The Sun"],
+			"correct":1,
+			"fact":"O código morse apresentado é traduzido como SOS, um pedido universal de ajuda e socorro."
+		},
+		{
+			"id":17,
+			"type":"normal",
+			"theme":"PIPOCA DE ANO NOVO",
+			"question":"Qual destes filmes de ação seria perfeito para o que termina no último ano do terceiro milênio (além do terceiro milênio)?",
+			"answers":["O Grande Dragão Branco", "Carga Explosiva", "Duro de Matar", "Triplo X"],
+			"correct":3,
+			"fact":"O último ano do terceiro milênio, 3000, também é quando se inicia o século XXX."
+		},
+		{
+			"id":18,
+			"type":"normal",
+			"theme":"ROMANTISMO EM TODO LUGAR",
+			"question":"Qual livro de José de Alencar está na paixão, na decisão e no pão?",
+			"answers":["O Guarani", "Senhora", "Til", "Iracema"],
+			"correct":2,
+			"fact":"Paixão, decisão e pão são palavras com til (o sinal gráfico)."
+		},
+		{
+			"id":19,
+			"type":"normal",
+			"theme":"MERCADO NEGRO",
+			"question":"Se um adulto tem todos os dentes e pode vender cada um a 50 dólares, qual é a maior dívida que ele pode pagar apenas com esse dinheiro?",
+			"answers":["1600 dólares", "1200 dólares", "1800 dólares", "1400 dólares"],
+			"correct":0,
+			"fact":"Um adulto tem 32 dentes x 50 dólares cada = 1600 dólares."
+		},
+		{
+			"id":20,
+			"type":"normal",
+			"theme":"LACROU, QUE HINO!",
+			"question":"Se a Anitta fosse regravar o Hino Nacional Brasileiro sem alterar a letra, qual destas frases não seria cantada por ela?",
+			"answers":["Se ergues da justiça a clava forte", "Iluminado ao sol do novo mundo", "Ao som do rio e à luz do céu profundo", "Gigante pela própria natureza"],
+			"correct":2,
+			"fact":"A frase correta seria Ao som do mar e à luz do céu profundo."
+		},
+		{
+			"id":21,
+			"type":"normal",
+			"theme":"QWERTYUEIJO",
+			"question":"Alguém digitou errado um nome de um queijo. Qual deles é?",
+			"answers":["Brie", "Cheddar", "Coalho", "Mussarela"],
+			"correct":3,
+			"fact":"Por mais que seja mais comum com dois S, as formas corretas são muçarela ou mozarela."
+		},
+		{
+			"id":22,
+			"type":"normal",
+			"theme":"NATAL ATÔMICO",
+			"question":"Se Thomson fosse italiano, qual ingrediente não faltaria na sua teoria atômica baseada em um panetone?",
+			"answers":["Chocolate", "Uva passa", "Frutas cristalizadas", "Amêndoas"],
+			"correct":1,
+			"fact":"O modelo atômico proposto pelo cientista Joseph Thomson é conhecido como pudim de passas."
+		},
+		{
+			"id":23,
+			"type":"normal",
+			"theme":"SOPA DE VITAMININHAS",
+			"question":"Em uma sopa de letrinhas, cada letra tem um gosto diferente. Qual é o sabor da letra C?",
+			"answers":["Laranja", "Uva", "Salmão", "Cenoura"],
+			"correct":0,
+			"fact":"A laranja é uma das principais fontes de vitamina C."
+		},
+		{
+			"id":24,
+			"type":"normal",
+			"theme":"CÉU NACIONAL",
+			"question":"A independência do Brasil é de que signo?",
+			"answers":["Leão", "Escorpião", "Virgem", "Libra"],
+			"correct":2,
+			"fact":"O dia 7 de setembro faz parte do signo de Virgem (23/08 a 22/09)."
+		},
+		{
+			"id":25,
+			"type":"normal",
+			"theme":"ESTRESSE EM MINIATURA",
+			"question":"Qual destes insetos pode ficar estressado até perder a cabeça e, depois, ficar tranquilo por muito tempo?",
+			"answers":["Escorpião", "Barata", "Joaninha", "Formiga"],
+			"correct":1,
+			"fact":"A barata pode viver vários dias sem a cabeça (literalmente)."
+		},
+		{
+			"id":26,
+			"type":"normal",
+			"theme":"O BOM, O MAU E O PEQUENO",
+			"question":"Qual é o melhor país para que Billy Joe, a mão rápida do Oeste, diga -esse lugar é pequeno demais para nós dois?",
+			"answers":["Mônaco", "Vaticano", "San Marino", "Tuvalu"],
+			"correct":1,
+			"fact":"O Vaticano é o menor país do mundo, com 0,44 quilômetro quadrado de extensão."
+		},
+		{
+			"id":27,
+			"type":"normal",
+			"theme":"OS CARROS SÃO COMO AS LANCHAS...",
+			"question":"...as motos são como os jet skis, os pedestres são como os banhistas e o capô do carro é como a…?",
+			"answers":["Proa", "Boça", "Popa", "Serviola"],
+			"correct":0,
+			"fact":"Proa e capô representam, respectivamente, partes frontais de um barco e de um carro."
+		},
+		{
+			"id":28,
+			"type":"normal",
+			"theme":"OUSADIA E ALEGRIA EM ALTO MAR",
+			"question":"Para salvar seu grande amor, o comandante do navio pede que você toque um clássico pagode do grupo Sierra Papa Charlie. Qual você coloca pra tocar?",
+			"answers":["Recado à Minha Amada", "Cheia de Manias", "Cilada", "A Barata"],
+			"correct":3,
+			"fact":"No alfabeto fonético da OTAN, essas palavras representam a sigla SPC, de Só Para Contrariar."
+		},
+		{
+			"id":29,
+			"type":"normal",
+			"theme":"DOENÇA NO PÉ DA LETRA",
+			"question":"Em 1518, na França, uma destas expressões deixou de ser apenas sentido figurado em uma grande epidemia. Qual delas é?",
+			"answers":["Que pessoa sem sal", "Fui com tudo pro chão", "Morri de tanto dançar", "Com uma fome de leão"],
+			"correct":2,
+			"fact":"Neste ano, uma epidemia levou à morte de mais de 500 pessoas após quatro meses de dança sem parar."
+		},
+		{
+			"id":30,
+			"type":"normal",
+			"theme":"É HORA DE SURFAR",
+			"question":"Todos os Power Rangers foram ao Havaí surfar durante as férias. Segundo a Óptica, quem pegará a onda com menor comprimento?",
+			"answers":["Billy, o Ranger Azul", "Tommy, o Ranger Verde", "Jason, o Ranger Vermelho", "Trini, a Ranger Amarela"],
+			"correct":0,
+			"fact":"A luz azul é a que tem o menor comprimento de onda (e, por consequência, a maior frequência de onda)."
+		},
+		{
+			"id":31,
+			"type":"normal",
+			"theme":"GENETICAL POP ROCK",
+			"question":"Qual destes nomes não poderia ser escolhido para o novo sucesso do verão, a banda formada pelas bases nitrogenadas do DNA?",
+			"answers":["Guanina Folks", "A Turma da Timina", "Citosina e as Notícias", "Uracila e sua Turma"],
+			"correct":3,
+			"fact":"A uracila é uma base nitrogenada que está presente apenas no RNA e não poderia fazer parte de uma banda formada por integrantes que venham apenas do DNA."
+		},
+		{
+			"id":32,
+			"type":"normal",
+			"theme":"A SOLUÇÃO FINAL DA VIAGEM NO TEMPO",
+			"question":"Quando um viajante do tempo está disposto a morrer pelo seu ideal, que cargo ele precisaria ter para 'sair da vida e entrar na história'?",
+			"answers":["Banqueiro", "Líder religioso", "Presidente", "Apresentador de TV"],
+			"correct":2,
+			"fact":"Getúlio Vargas, ex-presidente do Brasil, é o autor da frase 'Saio da vida para entrar na história', escrita em sua carta de suicídio."
+		},
+		{
+			"id":33,
+			"type":"normal",
+			"theme":"ENERGIA É UMA PALHAÇADA",
+			"question":"Se o Coringa cansasse de Gotham e quisesse causar o terror em terras brasileiras, qual seria o melhor lugar para atacar e deixar o país no escuro?",
+			"answers":["Nos rios", "Nas florestas", "Nas cidades do interior", "Nas minas de carvão"],
+			"correct":0,
+			"fact":"A maior parte da energia elétrica consumida no Brasil é produzida por usinas hidrelétricas, que usam os rios para gerar essa energia."
+		},
+		{
+			"id":34,
+			"type":"normal",
+			"theme":"ALGUÉM ME SEGURE... NA ACADEMIA",
+			"question":"Em qual destes níveis acadêmicos, o Máskara se tornaria o incrível e inigualável Bhaskara?",
+			"answers":["Primeiro grau", "Segundo grau", "Graduação", "Técnico"],
+			"correct":1,
+			"fact":"A fórmula de Bhaskara é a mais conhecida forma de resolver equações de segundo grau."
+		},
+		{
+			"id":35,
+			"type":"normal",
+			"theme":"CHEIA DE MANIAS QUENTES",
+			"question":"Pra me ajudar a segurar essa barra que é gostar de você, me diga: de qual material a barra tem de ser feita para eu sentir melhor o calor do teu corpinho?",
+			"answers":["Cerâmica", "Vidro", "Madeira", "Latão"],
+			"correct":3,
+			"fact":"O latão é o único bom condutor de calor, já que os demais são considerados isolantes térmicos."
+		},
+		{
+			"id":36,
+			"type":"normal",
+			"theme":"TÁ PEGANDO FOGO, BICHO",
+			"question":"Se uma churrasqueira começasse a pegar fogo às sete e trinta e sete, em qual destes quadros o fogo, com certeza, pararia?",
+			"answers":["Dança dos Oleosos", "Vácuo Cassetadas", "Olímpiadas do Carvão", "Ventosos do Ano"],
+			"correct":1,
+			"fact":"O oxigênio é o principal comburente do fogo e, no vácuo, não há oxigênio."
+		},
+		{
+			"id":37,
+			"type":"normal",
+			"theme":"VOCÊ TEM DIREITO A UMA LIGAÇÃO",
+			"question":"O Sr. Carbono foi preso e tem direito a uma única ligação. Para quem ele deveria ligar para garantir que a cadeia fique saturada e possa pedir prisão domiciliar?",
+			"answers":["Uma ligação simples com a Sra. Carbono", "Uma dupla discussão com o Dr. Hidrogênio", "Um papo rápido com os Nitrogênios", "Ignorar a ligação"],
+			"correct":0,
+			"fact":"Na química orgânica, uma cadeia saturada é definida por haver apenas ligações simples entre átomos de carbono."
+		},
+		{
+			"id":38,
+			"type":"normal",
+			"theme":"FACEBOOK @ HOLLYWOOD",
+			"question":"Em um cenário hipotético em que Nicolas Cage realmente esboça reações, qual destas frases não poderia ser usada em uma cena dentro do mundo virtual do Facebook?",
+			"answers":["AMEI essa blusa!", "HAHA, que engraçado", "ADOREI isso que você disse", "TRISTE essa notícia"],
+			"correct":2,
+			"fact":"Amei, Haha e Triste são reações disponíveis atualmente no Facebook, diferente de Adorei."
+		},
+		{
+			"id":39,
+			"type":"normal",
+			"theme":"PEGUEM O POMBO E A PEDRA",
+			"question":"Dick Vigarista quer roubar as pedras do Stonehenge com seu novo carro que encolhe tudo o que toca. Se ele passou, em linha reta, pela tangente, quantas pedras foram encolhidas?",
+			"answers":["Todas as pedras", "Três pedras", "Duas pedras", "Uma pedra"],
+			"correct":3,
+			"fact":"Uma reta tangente toca uma circunferência em, exatamente, apenas um ponto."
+		},
+		{
+			"id":40,
+			"type":"normal",
+			"theme":"TUDO QUE O SOL TOCA PERTENCE À SKOL",
+			"question":"Segundo as leis americanas, qual destes filmes da Disney já podem encher a cara em 2017?",
+			"answers":["Mulan", "101 Dálmatas", "O Rei Leão 2", "Vida de Inseto"],
+			"correct":1,
+			"fact":"101 Dálmatas é o único filme que, em 2017, tem mais de 21 anos, idade mínima para consumir álcool nos EUA."
+		},
+		{
+			"id":41,
+			"type":"normal",
+			"theme":"O REI EM TOUR",
+			"question":"Para comemorar a entrada do ano de 2018 em Pequim, qual destas músicas seria a mais apropriada para Roberto Carlos cantar em um especial de fim de ano?",
+			"answers":["Como É Grande O Meu Galo Por Você", "As Serpentes das Estradas de Santos", "Esse Cão Sou Eu", "Ai Que Saudades do Dragão"],
+			"correct":2,
+			"fact":"Segundo o zodíaco chinês, 2018 é o Ano do Cão."
+		},
+		{
+			"id":42,
+			"type":"normal",
+			"theme":"OLHA A PEXERA, ARE BABA",
+			"question":"Se Lampião fosse pra Índia, aderisse ao budismo e se tornasse um 'cabra da budapeste', onde ele iria querer morar a partir de agora?",
+			"answers":["Hungria", "Áustria", "Bélgica", "Irlanda"],
+			"correct":0,
+			"fact":"Budapeste é a capital nacional da Hungria."
+		},
+		{
+			"id":43,
+			"type":"normal",
+			"theme":"TRANSILVÂNIA.COM",
+			"question":"Um vampiro digital não pode mais se alimentar de versões do Android pois descobriu que tem qual doença?",
+			"answers":["TOC", "Catapora", "Gripe", "Diabetes"],
+			"correct":3,
+			"fact":"Todas as versões do Android são batizadas com nomes que remetem a doces famosos, em ordem alfabética, que, com certeza, não são recomendados a estarem na dieta de diabéticos."
+		}
+	]
+}
